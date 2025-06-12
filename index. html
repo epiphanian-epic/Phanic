@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Phanic Computer Hub</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f6f8fa;
+      color: #333;
+    }
+    header {
+      background-color: #1f2937;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin: 0;
+    }
+    section {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    .button {
+      background-color: #2563eb;
+      color: white;
+      padding: 1rem 2rem;
+      border: none;
+      border-radius: 8px;
+      font-size: 1rem;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 1rem;
+    }
+    .features {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+    .feature {
+      flex: 1 1 250px;
+      background: #f1f5f9;
+      padding: 1rem;
+      border-radius: 8px;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #e5e7eb;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to Phanic Computer Hub</h1>
+    <p>Learn in-demand digital skills and prepare for a brighter future</p>
+    <a href="https://wa.me/2348108270154" class="button">Chat with us on WhatsApp</a>
+  </header>
+
+  <section>
+    <h2>Our Courses</h2>
+    <div class="features">
+      <div class="feature">
+        <h3>Basic Computer Training</h3>
+        <p>Perfect for beginners – typing, MS Word, Excel, and more.</p>
+      </div>
+      <div class="feature">
+        <h3>Graphic Design</h3>
+        <p>Master CorelDraw and Canva for design projects.</p>
+      </div>
+      <div class="feature">
+        <h3>Mobile Video Editing</h3>
+        <p>Edit professional videos right from your phone.</p>
+      </div>
+      <div class="feature">
+        <h3>Data Entry</h3>
+        <p>Learn how to enter, clean, and manage data professionally.</p>
+      </div>
+      <div class="feature">
+        <h3>YouTube & Online Mastery</h3>
+        <p>Monetize your knowledge and grow your online presence.</p>
+      </div>
+    </div>
+    <a href="https://wa.me/2348108270154" class="button">Enroll Now</a>
+  </section>
+
+  <section>
+    <h2>Why Choose Phanic?</h2>
+    <ul>
+      <li>Weekend & Flexible Training</li>
+      <li>Certificates for Every Graduate</li>
+      <li>Friendly, Hands-On Learning Environment</li>
+      <li>Affordable Pricing & Discounts</li>
+      <li>Online & Offline Options Available</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Testimonials</h2>
+    <p><strong>Chidinma:</strong> "I knew nothing about computers. Now I’m editing videos on my phone and helping others!"</p>
+    <p><strong>Joseph:</strong> "Phanic gave me the skills I needed to apply for a remote job."</p>
+  </section>
+
+  <section>
+    <h2>FAQs</h2>
+    <p><strong>Q: Who can enroll?</strong><br/>A: Anyone aged 10–65 who wants digital skills.</p>
+    <p><strong>Q: Can I learn online?</strong><br/>A: Yes! We have both online and offline options.</p>
+    <p><strong>Q: Will I get a certificate?</strong><br/>A: Yes, after you complete your course.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Phanic Computer Hub. All rights reserved.
+  </footer>
+
+</body>
+</html>
